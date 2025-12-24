@@ -8,9 +8,10 @@ steps:
 - task: FortifySCA@7
   inputs:
     applicationType: 'java'
-    buildToolOptions: 'gradlew build'
+    buildAnalyzerParams: 'gradlew build'
     fortifyBuildId: 'test2'
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
+    fortifyServerName: 'fortifyssc'
     fortifyApplicationName: 'deneme'
     fortifyApplicationVersion: 'kotlin'
