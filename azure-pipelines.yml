@@ -8,8 +8,7 @@ steps:
 - task: FortifySCA@7
   inputs:
     applicationType: 'dotnet'
-    fortifyProjects: '**\*.sln'
-    buildAnalyzerParams: 'msbuild /t:rebuild'
+    fortifyProjects: 'msbuild /t:rebuild'
     fortifyBuildId: 'test2'
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
