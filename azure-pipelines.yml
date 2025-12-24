@@ -11,8 +11,6 @@ steps:
     fortifyProjects: 'RichesDotnetApp.sln'
     buildAnalyzerParams: 'msbuild /t:rebuild'
     fortifyBuildId: 'test2'
-    scaVerbose: true
-    scaDebug: true
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
     fortifyServerName: 'fortifyssc'
