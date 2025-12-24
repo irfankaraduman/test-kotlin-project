@@ -7,9 +7,8 @@ pool:
 steps:
 - task: FortifySCA@7
   inputs:
-    applicationType: 'java'
-    buildSourceVersion: '17'
-    buildAnalyzerParams: 'gradlew build'
+    applicationType: 'dotnet'
+    fortifyProjects: '**\*.sln'
     fortifyBuildId: 'test2'
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
