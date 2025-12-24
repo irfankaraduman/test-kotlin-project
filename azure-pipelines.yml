@@ -1,0 +1,14 @@
+trigger:
+- none
+
+pool:
+  name: irfank
+
+- task: FortifySCA@7
+  inputs:
+    applicationType: 'java'
+    buildToolOptions: 'gradlew build'
+    fortifyScanType: 'LocalScan'
+    runFortifyUpload: true
+    fortifyApplicationName: 'deneme'
+    fortifyApplicationVersion: 'kotlin'
