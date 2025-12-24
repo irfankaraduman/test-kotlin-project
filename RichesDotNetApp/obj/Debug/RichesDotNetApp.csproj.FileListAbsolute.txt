@@ -1,0 +1,106 @@
+C:\Rohit\MFAppSec\Repos\Riches%20DotNet%20eDAST%20Project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.CoreCompileInputs.cache
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\RichesDotNetApp.dll.config
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\RichesDotNetApp.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\RichesDotNetApp.pdb
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\sqlcese40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\sqlceqp40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\sqlceme40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\sqlceer40EN.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\sqlcecompact40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\sqlceca40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\sqlcese40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\sqlceqp40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\sqlceme40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\sqlceer40EN.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\sqlcecompact40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\sqlceca40.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\EntityFramework.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServer.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServerCompact.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\System.Data.SqlServerCe.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\System.Web.Providers.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\EntityFramework.xml
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServer.xml
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServerCompact.xml
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\System.Web.Providers.xml
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.AssemblyReference.cache
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.CoreCompileInputs.cache
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.CopyComplete
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.dll
+C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.pdb
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\RichesDotNetApp.dll.config
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\RichesDotNetApp.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\RichesDotNetApp.pdb
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\sqlcese40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\sqlceqp40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\sqlceme40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\sqlceer40EN.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\sqlcecompact40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\sqlceca40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\sqlcese40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\sqlceqp40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\sqlceme40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\sqlceer40EN.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\sqlcecompact40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\sqlceca40.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\EntityFramework.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServer.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServerCompact.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\System.Data.SqlServerCe.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\System.Web.Providers.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\EntityFramework.xml
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServer.xml
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServerCompact.xml
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\bin\System.Web.Providers.xml
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.AssemblyReference.cache
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.CoreCompileInputs.cache
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.CopyComplete
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.dll
+C:\Samples\msbuild\RichesDotNet2-Master\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.pdb
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\RichesDotNetApp.dll.config
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\RichesDotNetApp.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\RichesDotNetApp.pdb
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\sqlcese40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\sqlceqp40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\sqlceme40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\sqlceer40EN.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\sqlcecompact40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\sqlceca40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\sqlcese40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\sqlceqp40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\sqlceme40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\sqlceer40EN.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\sqlcecompact40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\sqlceca40.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\System.Data.SqlServerCe.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\bin\System.Web.Providers.xml
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\obj\Debug\RichesDo.6D4D2BDE.Up2Date
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.dll
+C:\Users\Administrator\Desktop\dotnet framework 4.8 sample project\riches.net\RichesDotNetApp\obj\Debug\RichesDotNetApp.pdb
