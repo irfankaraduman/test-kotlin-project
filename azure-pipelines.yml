@@ -7,9 +7,11 @@ pool:
 steps:
 - task: FortifySCA@7
   inputs:
-    applicationType: 'dotnet'
-    fortifyProjects: 'msbuild /t:rebuild'
+    applicationType: 'other'
+    buildAnalyzerParams: 'msbuild /t:rebuild'
     fortifyBuildId: 'test2'
+    scaVerbose: true
+    scaDebug: true
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
     fortifyServerName: 'fortifyssc'
