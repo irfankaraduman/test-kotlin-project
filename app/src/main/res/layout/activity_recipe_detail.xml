@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_hazirlanis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="Hazırlanış"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/iv_time"
+            app:layout_constraintTop_toBottomOf="@+id/iv_time" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/bottomRoundedCardView"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            app:cardCornerRadius="24dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+
+            <ImageView
+                android:id="@+id/iv_main_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_recipetitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Yemek Başlığı"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/bottomRoundedCardView" />
+
+        <ImageView
+            android:id="@+id/iv_star"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            app:layout_constraintStart_toStartOf="@+id/tv_recipetitle"
+            app:layout_constraintTop_toBottomOf="@+id/tv_recipetitle"
+            app:srcCompat="@drawable/icon_star"
+            tools:srcCompat="@drawable/icon_star" />
+
+        <ImageView
+            android:id="@+id/iv_time"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="@+id/iv_star"
+            app:layout_constraintTop_toBottomOf="@+id/iv_star"
+            app:srcCompat="@drawable/icon_time"
+            tools:srcCompat="@drawable/icon_time" />
+
+        <TextView
+            android:id="@+id/tv_rating_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="TextView"
+            app:layout_constraintBottom_toBottomOf="@+id/iv_star"
+            app:layout_constraintStart_toEndOf="@+id/iv_star"
+            app:layout_constraintTop_toTopOf="@+id/iv_star" />
+
+        <TextView
+            android:id="@+id/tv_time_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="TextView"
+            app:layout_constraintBottom_toBottomOf="@+id/iv_time"
+            app:layout_constraintStart_toEndOf="@+id/iv_time"
+            app:layout_constraintTop_toTopOf="@+id/iv_time" />
+
+        <TextView
+            android:id="@+id/tv_preparation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/tv_hazirlanis"
+            app:layout_constraintTop_toBottomOf="@+id/tv_hazirlanis" />
+
+        <!-- Add other views or elements within the ConstraintLayout as needed -->
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+
