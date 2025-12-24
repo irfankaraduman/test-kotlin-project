@@ -8,7 +8,6 @@ steps:
 - task: FortifySCA@7
   inputs:
     applicationType: 'java'
-    buildAnalyzerParams: 'gradlew build'
     fortifyBuildId: 'test2'
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
