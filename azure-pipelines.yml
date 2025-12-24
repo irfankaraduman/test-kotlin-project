@@ -9,6 +9,7 @@ steps:
   inputs:
     applicationType: 'java'
     buildToolOptions: 'gradlew build'
+    fortifyBuildId: 'test2'
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
     fortifyApplicationName: 'deneme'
