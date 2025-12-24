@@ -8,7 +8,7 @@ steps:
 - task: FortifySCA@7
   inputs:
     applicationType: 'other'
-    buildAnalyzerParams: 'msbuild /t:rebuild'
+    buildAnalyzerParams: 'msbuild /t:rebuild RichesDotnetApp.sln'
     fortifyBuildId: 'test2'
     scaVerbose: true
     scaDebug: true
