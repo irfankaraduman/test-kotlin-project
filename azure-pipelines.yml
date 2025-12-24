@@ -8,8 +8,8 @@ steps:
 - task: FortifySCA@7
   inputs:
     applicationType: 'other'
-    buildToolOptions: 'msbuild /t:rebuild'
-    fortifySourceTranslate: 'RichesDotnetApp.sln'
+    buildAnalyzerParams: 'msbuild /t:rebuild'
+    buildToolOptions: 'RichesDotnetApp.sln'
     fortifyBuildId: 'test2'
     fortifyScanType: 'LocalScan'
     runFortifyUpload: true
